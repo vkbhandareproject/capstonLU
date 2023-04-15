@@ -1,0 +1,11 @@
+1 - create a parent folder as capstoneproject
+2 - open folder and run npm init command
+3 - start creating models and schemas
+4 - in parent folder create models folder and inside it create following files -
+    admin.js ,category.js, restaurant.js, product.js, restaurant_product.js,user.js,cart.js,order.js
+5 - create routes folder in parent folder capstoneproject , 
+    inside routes folder add following files -
+    admin.js, restaurant.js, user.js,product.js, category.js,
+
+6 - verify-token.js file inside backend folder
+7 - 
