@@ -1,5 +1,0 @@
-"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZrYjJAZ21haWwuY29tIiwiaWF0IjoxNjgwNjk2OTc0fQ.tvQASbq2MSMat7KEtD9-SLIIb4AvLlBriNJMOAt3fwM",
-
-//key -- secretkey
-
-multiple attribute for multiple select files upload
